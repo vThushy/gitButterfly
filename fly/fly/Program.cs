@@ -11,5 +11,7 @@ namespace fly
         static void Main(string[] args)
         {
         }
+            Console.Write("hi");
+                    }
     }
 }
